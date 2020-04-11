@@ -112,4 +112,8 @@ button {
     border: 0;
 }
 
-/* Dark Mode  */
+@media only screen and (max-width: 1024px) {
+    #alarm, #snooze {
+        display: none;
+    }
+  }

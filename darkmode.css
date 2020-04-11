@@ -118,3 +118,9 @@ button {
 .bottom * {
 padding: 0 3vw;
 }
+
+@media only screen and (max-width: 1024px) {
+    #alarm, #snooze {
+        display: none;
+    }
+  }
