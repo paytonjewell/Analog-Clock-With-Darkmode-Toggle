@@ -109,3 +109,12 @@ button {
     background-color: transparent;
     border: 0;
 }
+
+
+.bottom {
+    margin-top: 10vh;
+}
+
+.bottom * {
+padding: 0 3vw;
+}

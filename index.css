@@ -97,8 +97,12 @@ border-radius: 50%;
     border-radius: 6px 6px 0 0;
 }
 
-.toggler {
+.bottom {
     margin-top: 10vh;
+}
+
+.bottom * {
+padding: 0 3vw;
 }
 
 button {
